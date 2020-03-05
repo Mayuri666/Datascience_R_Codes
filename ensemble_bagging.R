@@ -46,3 +46,5 @@ for(i in 1:500)
 }
 summary(acc)
 boxplot(acc)
+
+# to look at the trials individually, run the model separately and run the summary
